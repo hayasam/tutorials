@@ -65,7 +65,7 @@
     </build>
 
     <properties>
-        <guava.version>27.0.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <ahocorasick.version>0.4.0</ahocorasick.version>
         <assertj.version>3.6.1</assertj.version>
         <emoji-java.version>4.0.0</emoji-java.version>
