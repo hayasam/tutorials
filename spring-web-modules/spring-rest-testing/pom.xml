@@ -287,7 +287,7 @@
         <xml-apis.version>1.4.01</xml-apis.version>
 
         <!-- util -->
-        <guava.version>19.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
         <javassist.version>3.25.0-GA</javassist.version>
 
         <!-- Maven plugins -->
