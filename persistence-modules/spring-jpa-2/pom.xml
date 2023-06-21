@@ -96,7 +96,7 @@
         <tomcat-dbcp.version>9.0.0.M26</tomcat-dbcp.version>
 
         <!-- utilities -->
-        <guava.version>21.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
         <byte-buddy.version>1.10.16</byte-buddy.version>
     </properties>
 
